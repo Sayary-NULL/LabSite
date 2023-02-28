@@ -1,0 +1,4 @@
+# users
+.idea
+frontend/*
+venv/
